@@ -113,16 +113,12 @@ body {
   text-decoration: underline;
 }
 
-.g_id_signin {
-  display: flex !important;
+.google-container {
+  display: flex;
   justify-content: center;
-  width: 100%;
   margin-top: 15px;
 }
 
-.g_id_signin > div {
-  margin: 0 auto !important;
-}
 
 
 
